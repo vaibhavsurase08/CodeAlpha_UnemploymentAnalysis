@@ -3,21 +3,30 @@
 ## Dataset Name
 Unemployment in India
 
-## Dataset Provider
-CodeAlpha Data Science Internship
+## Dataset Source
+- Platform: Kaggle
+- Dataset Creator: Gokul Raj Kuppan
+- Dataset Link: https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
-## Source
-The dataset was provided by CodeAlpha through the official internship email.
+## Dataset Provided Through
+The Kaggle dataset link was shared by CodeAlpha through the official Data Science Internship email.
 
 ## Files Used
 1. Unemployment in India.csv
 2. Unemployment_Rate_upto_11_2020.csv
 
 ## Dataset Description
-The datasets contain unemployment statistics across different regions of India, including unemployment rates, estimated employment, and labour participation rates.
+The dataset contains unemployment statistics across different regions of India, including unemployment rates, estimated employment, and labour participation rates.
 
-## Usage
-These datasets were used for data cleaning, exploratory data analysis, monthly unemployment trend analysis, rural vs urban comparisons, regional rankings, and COVID-19 impact analysis.
+## Project Usage
+The datasets were used for:
+- Data cleaning and preprocessing.
+- Exploratory Data Analysis (EDA).
+- Monthly unemployment trend analysis.
+- Rural vs Urban unemployment comparison.
+- COVID-19 lockdown impact analysis.
+- Regional unemployment rankings.
+- Employment vs Unemployment visualization.
 
 ## Acknowledgement
-We acknowledge CodeAlpha for providing the dataset for this Data Science Internship project.
+We acknowledge CodeAlpha for sharing the dataset resource and Kaggle for hosting the original dataset.
