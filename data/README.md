@@ -1,17 +1,23 @@
 # Dataset Information
 
-This folder contains information about the datasets used in the Unemployment Analysis project.
+## Dataset Name
+Unemployment in India
 
-The datasets were used to study:
-- Monthly unemployment trends.
-- Rural and urban unemployment rates.
-- Regional unemployment differences.
-- COVID-19 lockdown impact.
+## Dataset Provider
+CodeAlpha Data Science Internship
 
-## Dataset Source
+## Source
+The dataset was provided by CodeAlpha through the official internship email.
 
-Original dataset source: Add the actual dataset source URL here.
+## Files Used
+1. Unemployment in India.csv
+2. Unemployment_Rate_upto_11_2020.csv
 
-## Note
+## Dataset Description
+The datasets contain unemployment statistics across different regions of India, including unemployment rates, estimated employment, and labour participation rates.
 
-The datasets are not included in this folder currently.
+## Usage
+These datasets were used for data cleaning, exploratory data analysis, monthly unemployment trend analysis, rural vs urban comparisons, regional rankings, and COVID-19 impact analysis.
+
+## Acknowledgement
+We acknowledge CodeAlpha for providing the dataset for this Data Science Internship project.
